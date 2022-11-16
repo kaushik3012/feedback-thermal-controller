@@ -1,4 +1,6 @@
-*This program require Python 3 to execute.*
+# Feedback Thermal Controller Simulator
+
+*This program requires Python 3 to execute.*
 
 Run this module using:
 python3 thermal_controller
