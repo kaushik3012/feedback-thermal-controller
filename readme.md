@@ -1,6 +1,6 @@
 # Feedback Thermal Controller Simulator
 
-#### Made as a project for the Course CS637A (Embedded & Cyber-physical Systems
+#### Made as a project for the Course CS637A: Embedded & Cyber-physical Systems
 
 *This program requires Python 3 to execute.*
 
